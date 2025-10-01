@@ -1,4 +1,3 @@
-````markdown
 # DSA with LeetCode — Explanations & Code (Video + Repo)
 
 **Welcome!** This repository contains clear, well-documented solutions to LeetCode problems, accompanied by step-by-step YouTube video explanations aimed at students learning Data Structures & Algorithms (DSA).
